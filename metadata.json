@@ -1,0 +1,7 @@
+{
+  "name": "VoiceLearn AI",
+  "description": "An AI-powered learning platform that transforms books and notes into interactive voice lessons with a doubt-solving tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
